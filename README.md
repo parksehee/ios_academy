@@ -1,2 +1,5 @@
-# ios_academy
-IOS ACADEMY TEAM PROJECT
+# 재재 팀
+
+## ADS
+---
+
